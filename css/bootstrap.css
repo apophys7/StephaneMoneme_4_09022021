@@ -1427,7 +1427,9 @@ figure {
 }
 
 img {
-    vertical-align: middle
+    vertical-align: middle;
+    width: 200px;
+    margin: 0 auto;
 }
 
 .carousel-inner>.item>a>img,
